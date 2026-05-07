@@ -1,0 +1,190 @@
+{
+  "brand": "Expertos en Decoración",
+  "legalName": "Expertos en Decoración",
+  "domain": "https://expertosendecoracion.es",
+  "year": "2026",
+  "ctaText": "Pedir presupuesto GRATIS",
+  "ctaAltText": "Ver ideas y precios",
+  "affiliateBaseUrl": "https://tidd.ly/4wbZ9Qh",
+  "professionalFormUrl": "https://formspree.io/f/placeholder",
+  "color": "rose",
+  "satelliteTags": [
+    "decoracion",
+    "interiorismo",
+    "vivienda",
+    "reforma",
+    "armario"
+  ],
+  "seo": {
+    "homeTitle": "Expertos en decoración e interiorismo | Presupuesto GRATIS (2026)",
+    "homeDescription": "Decoradores e interioristas profesionales en toda España. Proyectos completos, mood boards, asesoramiento y presupuestos sin compromiso."
+  },
+  "utm": {
+    "source": "expertosendecoracion",
+    "medium": "seo",
+    "campaign": "provincias"
+  },
+  "copy": {
+    "homeMetaTitle": "Decoradores e interioristas en España | Presupuesto GRATIS (2026)",
+    "homeMetaDescription": "Decoradores profesionales en tu provincia para proyectos integrales, asesoramiento puntual y home staging. Presupuesto sin compromiso.",
+    "heroEyebrow": "Decoradores disponibles 2026",
+    "heroH1Lead": "Tu Hogar",
+    "heroH1Highlight": "Decorado por Expertos",
+    "heroDescription": "Proyectos integrales de decoración, interiorismo y home staging por profesionales con visión y experiencia.",
+    "stats": [
+      {
+        "value": "1.500+",
+        "label": "Proyectos realizados"
+      },
+      {
+        "value": "2 sem",
+        "label": "Plazo medio de proyecto"
+      },
+      {
+        "value": "4.9/5",
+        "label": "Valoración media"
+      }
+    ],
+    "stepsTitle": "De la idea al hogar terminado",
+    "steps": [
+      {
+        "title": "1. Briefing inicial",
+        "desc": "Cuéntanos tu estilo, presupuesto y plazos. Visita a tu vivienda incluida."
+      },
+      {
+        "title": "2. Recibe propuestas",
+        "desc": "Decoradores de tu provincia preparan moodboard y presupuesto."
+      },
+      {
+        "title": "3. Ejecutamos juntos",
+        "desc": "Coordinamos la compra, instalación y entrega del proyecto."
+      }
+    ],
+    "ventajasTitle": "Decoración con criterio",
+    "ventajas": [
+      "Decoradores con cartera demostrable",
+      "Presupuestos cerrados sin sorpresas",
+      "Coordinación con todos los gremios",
+      "Acceso a mobiliario contract y artesano"
+    ],
+    "complementaryHomeHeading": "Si tu reforma va más allá de la decoración",
+    "complementaryHomeDescription": "Estos especialistas pueden encargarse de la obra antes de que decoremos.",
+    "testimonials": [
+      {
+        "quote": "El cambio en mi piso ha sido brutal y sin obras grandes.",
+        "author": "Patricia M., Madrid"
+      },
+      {
+        "quote": "Vendí la casa en 2 semanas tras el home staging.",
+        "author": "Jordi S., Barcelona"
+      },
+      {
+        "quote": "El proyecto 3D nos ayudó a decidir antes de comprar nada.",
+        "author": "Lucía R., Valencia"
+      }
+    ],
+    "carouselSlides": [
+      {
+        "src": "/building-hero.webp",
+        "alt": "Salón con decoración moderna",
+        "title": "Decoración Integral",
+        "description": "Proyecto llave en mano"
+      },
+      {
+        "src": "/hero-province.webp",
+        "alt": "Cocina renovada con cambio de frentes",
+        "title": "Renovación sin obra",
+        "description": "Cambios estéticos rápidos"
+      },
+      {
+        "src": "/hero-service.webp",
+        "alt": "Interiorista revisando moodboard",
+        "title": "Diseño con criterio",
+        "description": "Profesionales con cartera"
+      },
+      {
+        "src": "/project-facade-clean.webp",
+        "alt": "Detalle textil y materiales",
+        "title": "Acabados de calidad",
+        "description": "Mobiliario y textiles seleccionados"
+      },
+      {
+        "src": "/hero-province-alt.webp",
+        "alt": "Oficina con interiorismo corporativo",
+        "title": "Espacios comerciales",
+        "description": "Identidad visual coherente"
+      }
+    ],
+    "provinciaEyebrow": "Decoradores en",
+    "provinciaH1Lead": "Decoradores e interioristas en",
+    "provinciaDescription": "Profesionales de la decoración y el interiorismo para proyectos integrales, asesoramiento puntual y home staging.",
+    "provinciaTipsTitle": "Cómo elegir a tu decorador",
+    "provinciaTipsLead": "Pide siempre cartera de proyectos previos y un presupuesto cerrado por fases.",
+    "provinciaTips": [
+      {
+        "title": "Mira su cartera",
+        "desc": "Que el estilo coincida con lo que buscas."
+      },
+      {
+        "title": "Pide propuesta económica desglosada",
+        "desc": "Honorarios por proyecto, mobiliario y ejecución por separado."
+      },
+      {
+        "title": "Define el alcance",
+        "desc": "Solo proyecto, ejecución parcial o llave en mano."
+      }
+    ],
+    "complementaryProvinciaEyebrow": "Servicios complementarios",
+    "complementaryProvinciaTitle": "Si necesitas obra antes de decorar",
+    "complementaryProvinciaDescription": "La mayoría de proyectos de decoración van precedidos de pequeñas reformas. Estos especialistas pueden ayudarte.",
+    "servicioBeneficiosTitle": "¿Por qué contratar a un profesional?",
+    "servicioBeneficiosLead": "Un decorador con experiencia te ahorra dinero y errores costosos.",
+    "servicioPasosTitle": "Cómo trabajamos",
+    "servicioPasos": [
+      "Visita inicial y briefing.",
+      "Propuesta con moodboard y presupuesto.",
+      "Lista de compra detallada.",
+      "Coordinación de gremios e instaladores.",
+      "Entrega y montaje final."
+    ],
+    "servicioChecklistTitle": "Qué incluye un proyecto profesional",
+    "servicioChecklist": [
+      "Plano técnico de distribución",
+      "Renderizado 3D del resultado",
+      "Lista de materiales y proveedores",
+      "Calendario de ejecución",
+      "Asistencia durante la obra"
+    ],
+    "servicioCtaSubtitle": "Recibe propuestas de decoradores con cartera demostrable.",
+    "footerTagline": "Conectamos propietarios con decoradores e interioristas profesionales en toda España.",
+    "footerBadge": "Profesionales con cartera",
+    "colaboradoresHeroTitle": "Únete a nuestra red de decoradores",
+    "colaboradoresHeroDescription": "Buscamos decoradores, interioristas y home stagers profesionales con cartera de proyectos demostrable.",
+    "colaboradoresFeatures": [
+      {
+        "name": "Proyectos cualificados",
+        "description": "Filtramos cada solicitud para confirmar presupuesto y plazos."
+      },
+      {
+        "name": "Sin cuotas mensuales",
+        "description": "Trabajamos por proyecto, no por suscripción."
+      },
+      {
+        "name": "Cliente cualificado",
+        "description": "Llega contigo después de elegir estilo y plazos."
+      },
+      {
+        "name": "Exclusividad por zona",
+        "description": "Limitamos colaboradores por provincia."
+      }
+    ],
+    "colaboradoresFormCategories": [
+      "Decorador/a",
+      "Interiorista colegiado/a",
+      "Home stager",
+      "Estudio de interiorismo",
+      "Diseño comercial / contract",
+      "Otros"
+    ]
+  }
+}

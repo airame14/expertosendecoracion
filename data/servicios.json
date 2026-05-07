@@ -1,0 +1,101 @@
+[
+  {
+    "slug": "proyecto-decoracion-integral",
+    "nombre": "Proyecto de decoración integral",
+    "intro": "Plan completo para transformar tu vivienda: estilo, paleta de color, distribución y selección de mobiliario y textiles.",
+    "beneficios": [
+      "Plan en 3D detallado",
+      "Lista de compra completa",
+      "Coordinación con instaladores"
+    ],
+    "tags": [
+      "decoracion",
+      "interiorismo",
+      "vivienda",
+      "armario"
+    ],
+    "ctaLabel": "Empezar proyecto"
+  },
+  {
+    "slug": "asesoramiento-interiorismo",
+    "nombre": "Asesoramiento de interiorismo",
+    "intro": "Sesiones puntuales con profesional para resolver dudas de estilo, materiales o distribución antes de comprar nada.",
+    "beneficios": [
+      "Visita en obra incluida",
+      "Recomendaciones por escrito",
+      "Sin compromiso de proyecto"
+    ],
+    "tags": [
+      "decoracion",
+      "interiorismo",
+      "vivienda"
+    ],
+    "ctaLabel": "Reservar asesoría"
+  },
+  {
+    "slug": "decoracion-cocinas",
+    "nombre": "Decoración de cocinas",
+    "intro": "Renovamos la cocina sin obra mayor: cambio de frentes, encimera, iluminación y elementos decorativos.",
+    "beneficios": [
+      "Sin tirar tabiques",
+      "Apto para alquiler",
+      "Resultado de revista"
+    ],
+    "tags": [
+      "decoracion",
+      "cocina",
+      "vivienda",
+      "reforma"
+    ],
+    "ctaLabel": "Ver opciones de cocina"
+  },
+  {
+    "slug": "decoracion-banos",
+    "nombre": "Decoración de baños",
+    "intro": "Convierte tu baño en un espacio spa: vinilo hidrófugo, mamparas, accesorios y mobiliario integrado.",
+    "beneficios": [
+      "Sin obras de fontanería",
+      "Acabado spa",
+      "Tiempo de ejecución corto"
+    ],
+    "tags": [
+      "decoracion",
+      "bano",
+      "vivienda",
+      "alicatado"
+    ],
+    "ctaLabel": "Renovar mi baño"
+  },
+  {
+    "slug": "decoracion-comercial",
+    "nombre": "Decoración de locales y oficinas",
+    "intro": "Espacios comerciales y oficinas con identidad visual coherente. Estudios, retail, restauración y co-working.",
+    "beneficios": [
+      "Branding del espacio",
+      "Mobiliario contract",
+      "Cumplimiento normativo"
+    ],
+    "tags": [
+      "decoracion",
+      "oficina",
+      "interiorismo"
+    ],
+    "ctaLabel": "Diseñar local"
+  },
+  {
+    "slug": "home-staging",
+    "nombre": "Home staging para venta o alquiler",
+    "intro": "Preparación profesional de la vivienda antes de fotografiar y publicar para vender más rápido y a mejor precio.",
+    "beneficios": [
+      "Aumenta valor percibido",
+      "Reduce tiempo en mercado",
+      "Inversión rentable"
+    ],
+    "tags": [
+      "decoracion",
+      "vivienda",
+      "venta"
+    ],
+    "ctaLabel": "Pedir home staging"
+  }
+]
