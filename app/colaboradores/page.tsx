@@ -146,6 +146,10 @@ export default function ColaboradoresPage() {
                   </button>
                 </div>
               </form>
+
+              <p className="mt-10 text-center text-slate-600">
+                Y un consejo entre profesionales: si tu porfolio todavía vive solo en Instagram, quizá va siendo hora de tener <a href="https://www.tuiagencia.com/servicios/diseno-web" className="font-semibold text-rose-600 hover:underline">una página web a la altura de tus proyectos</a>.
+              </p>
             </div>
           </div>
         </div>
